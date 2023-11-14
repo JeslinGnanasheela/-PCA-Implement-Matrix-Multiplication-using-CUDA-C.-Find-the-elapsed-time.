@@ -25,8 +25,8 @@ for the kernel to execute, and any relevant error messages.
 
 ## PROGRAM:
 ```
-NAME: DHAREENE RK
-REG NO:212222040035
+NAME: JESLIN GNANASHEELA M
+REG NO:212222040062
 ```
 
 ## sumMatrixOnGPU.cu:
